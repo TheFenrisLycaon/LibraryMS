@@ -3,7 +3,6 @@ package main
 import (
 	"github.com/TheFenrisLycaon/LibraryMS/pkg/routes"
 	"github.com/gorilla/mux"
-	"gorm.io/driver/postgres"
 	"log"
 	"net/http"
 )
